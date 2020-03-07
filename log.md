@@ -26,3 +26,31 @@
 **Thoughts** These are the first practical exercises that I've done. I was bamboozled by the terminology & admittedly there were some questions that were beyond my understanding, but I somehow solved them for myself. Did use https://www.creativebloq.com/advice/best-code-editors to help.
 
 
+
+### Day 4: 4 March 2020
+
+
+**Today's Progress**: Slim to none
+
+**Thoughts**: D4 - Head not in the game today - received some bad news, so nothing really practical achieved. Taking a time out now so I can make a fresh approach tomorrow... 
+
+
+
+
+
+### Day 5: 5 March 2020
+
+
+**Today's Progress**: If I considered yesterday bad, then today was worse.
+
+**Thoughts**: D5 - Another time out. Got called to the Dr's really quickly for test results.Can't think straight, reading the same sentences repeatedly... Nothing is sinking in. I feel like I'm letting myself & others on #100DaysOfCode challenge down. We move...
+
+
+
+
+### Day 6: 6 March 2020
+
+
+**Today's Progress**: Getting back on track now.
+
+**Thoughts**: Just set myself little GitHub exercises to test what I've remembered, & trying not to refer to any help guides. Did better than expected, & am feeling it again. I feel ready to do more & move on tomorrow.
