@@ -74,4 +74,7 @@
 
 **Today's Progress**: Cooking with gas!
 
-**Thoughts**: Actually started with HTML. I still did a lot of reading because I need to level up on my terminology & the background theory is important for how I learn.
+**Thoughts**: Started HTML. I've levelled up on my terminology & background theory. The text manual was helpful with clear examples. I'll watch the 2hr tutorial in bed tonight!
+
+#100DaysOfCode #CodeNewbie #WomenWhoCode #IWD2020 #AWomansWork 
+Just the #SundayRoast to finish now!
