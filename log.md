@@ -54,3 +54,24 @@
 **Today's Progress**: Getting back on track now.
 
 **Thoughts**: Just set myself little GitHub exercises to test what I've remembered, & trying not to refer to any help guides. Did better than expected, & am feeling it again. I feel ready to do more & move on tomorrow.
+
+
+
+
+### Day 7: 7 March 2020
+
+
+**Today's Progress**: Non existent.
+
+**Thoughts**: Not feeling well today, so just stuck to reading, continuing to plan my learning pathway & objectives. I do find it daunting having to create my own lesson plan when I don't even know anything about the subject I'm teaching myself about.
+
+
+
+
+
+### Day 8: 8 March 2020
+
+
+**Today's Progress**: Cooking with gas!
+
+**Thoughts**: Actually started with HTML. I still did a lot of reading because I need to level up on my terminology & the background theory is important for how I learn.
